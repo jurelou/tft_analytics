@@ -1,0 +1,463 @@
+Found 20 challengers from ru
+Found 200 challengers from euw1
+Found 50 challengers from tr1
+Found 50 challengers from eun1
+Found 100 challengers from na1
+Found 50 challengers from oc1
+Found 200 challengers from kr
+Found 20 challengers from jp1
+Found 151 masters from ru
+Found 350 masters from jp1
+Found 1139 masters from eun1
+Found 487 masters from tr1
+Found 1120 masters from oc1
+Found 2562 masters from na1
+Found 30 grandmasters from ru
+Found 2301 masters from euw1
+Found 132 DIAMOND I from ru
+Found 4190 masters from kr
+Found 193 DIAMOND II from ru
+Found 205 DIAMOND III from ru
+Found 100 grandmasters from tr1
+Found 20 challengers from ru
+Found 50 challengers from eun1
+Found 200 challengers from euw1
+Found 50 challengers from tr1
+Found 50 challengers from oc1
+Found 100 challengers from na1
+Found 20 challengers from jp1
+Found 200 challengers from kr
+Found 153 masters from ru
+Found 350 masters from jp1
+Found 490 masters from tr1
+Found 1143 masters from eun1
+Found 1120 masters from oc1
+Found 2564 masters from na1
+Found 30 grandmasters from ru
+Found 2308 masters from euw1
+Found 130 DIAMOND I from ru
+Found 4186 masters from kr
+Found 193 DIAMOND II from ru
+Found 205 DIAMOND III from ru
+Found 100 grandmasters from tr1
+Found 30 grandmasters from jp1
+Found 205 DIAMOND I from tr1
+Found 205 DIAMOND I from jp1
+Found 205 DIAMOND III from ru
+Found 205 DIAMOND I from tr1
+Found 4 DIAMOND III from ru
+Found 205 DIAMOND IV from ru
+Found 34 DIAMOND I from jp1
+Found 153 DIAMOND I from tr1
+Found 205 DIAMOND II from jp1
+Found 205 DIAMOND IV from ru
+Found 100 grandmasters from eun1
+Found 205 DIAMOND II from tr1
+Found 205 DIAMOND I from eun1
+Found 205 DIAMOND IV from ru
+Found 205 DIAMOND II from jp1
+Found 205 DIAMOND II from tr1
+Found 100 grandmasters from oc1
+Found 205 DIAMOND I from eun1
+Found 205 DIAMOND IV from ru
+Found 205 DIAMOND I from oc1
+Found 205 DIAMOND II from tr1
+Found 205 DIAMOND I from eun1
+Found 61 DIAMOND II from jp1
+Found 205 DIAMOND IV from ru
+Found 205 DIAMOND II from tr1
+Found 205 DIAMOND III from jp1
+Found 205 DIAMOND I from oc1
+Found 205 DIAMOND I from eun1
+Found 134 DIAMOND IV from ru
+Found 181 DIAMOND II from tr1
+Found 205 DIAMOND I from oc1
+Found 205 PLATINUM I from ru
+Found 205 DIAMOND I from eun1
+Found 205 DIAMOND III from jp1
+Found 205 DIAMOND III from tr1
+Found 205 PLATINUM I from ru
+Found 8 DIAMOND I from eun1
+Found 205 DIAMOND II from eun1
+Found 205 DIAMOND I from oc1
+Found 205 DIAMOND III from tr1
+Found 500 grandmasters from euw1
+Found 205 PLATINUM I from ru
+Found 205 DIAMOND III from jp1
+Found 205 DIAMOND II from eun1
+Found 205 DIAMOND III from tr1
+Found 205 DIAMOND I from oc1
+Found 164 PLATINUM I from ru
+Found 205 DIAMOND II from eun1
+Found 205 DIAMOND III from tr1
+Found 205 DIAMOND III from jp1
+Found 205 PLATINUM II from ru
+Found 117 DIAMOND I from oc1
+Found 205 DIAMOND II from eun1
+Found 205 DIAMOND I from euw1
+Found 205 DIAMOND III from tr1
+Found 205 DIAMOND II from oc1
+Found 205 PLATINUM II from ru
+Found 205 DIAMOND II from eun1
+ERROR summoner: {'leagueId': 'e1cce6af-7140-41e8-b4de-0a3976e2f061', 'queueType': 'RANKED_TFT', 'tier': 'DIAMOND', 'rank': 'II', 'summonerId': 'X_1yo1TL6ocbnw7hqE54we_CGR0zpQyQoG65rqV0KjwyoIc', 'summonerName': 'PureSodium', 'leaguePoints': 13, 'wins': 19, 'losses': 101, 'veteran': False, 'inactive': False, 'freshBlood': True, 'hotStreak': False, 'region': 'oc1', '_id': ObjectId('5eacb12e2257bb5da2864f0c')} <Response [503 Service Unavailable]>
+ERROR summoner: {'leagueId': '17cabb3d-50ab-4fb3-900d-166efd0fae2c', 'queueType': 'RANKED_TFT', 'tier': 'DIAMOND', 'rank': 'II', 'summonerId': 'qSKog7nY_fQ9H_8oeMpVwfEo74azR1SXBa3TRL992Rwr5g', 'summonerName': 'Dahní', 'leaguePoints': 0, 'wins': 39, 'losses': 259, 'veteran': False, 'inactive': False, 'freshBlood': False, 'hotStreak': False, 'region': 'oc1', '_id': ObjectId('5eacb12e2257bb5da2864f0d')} <Response [503 Service Unavailable]>
+ERROR summoner: {'leagueId': '6003ca4c-e834-42dd-b0eb-c7803fbab67e', 'queueType': 'RANKED_TFT', 'tier': 'DIAMOND', 'rank': 'II', 'summonerId': '1lL4goRnch60htbCJgIScCw9Ho_l6IjiNMJV3SIkhod_Sw', 'summonerName': 'SlipperyKobra', 'leaguePoints': 0, 'wins': 34, 'losses': 122, 'veteran': False, 'inactive': False, 'freshBlood': False, 'hotStreak': False, 'region': 'oc1', '_id': ObjectId('5eacb12e2257bb5da2864f12')} <Response [503 Service Unavailable]>
+ERROR summoner: {'leagueId': 'ffb328c8-fd90-442f-a728-71bb8a922812', 'queueType': 'RANKED_TFT', 'tier': 'DIAMOND', 'rank': 'II', 'summonerId': 'JGF51F4LsTj6cc_xiBxwVUBhM8yrUxcv4kBqiggBMy26mK8', 'summonerName': 'TheBestIronFive', 'leaguePoints': 79, 'wins': 54, 'losses': 356, 'veteran': False, 'inactive': False, 'freshBlood': True, 'hotStreak': False, 'region': 'oc1', '_id': ObjectId('5eacb12e2257bb5da2864f1f')} <Response [503 Service Unavailable]>
+ERROR summoner: {'leagueId': 'aa234536-ac5a-47d2-83b4-71bb7ce9542d', 'queueType': 'RANKED_TFT', 'tier': 'DIAMOND', 'rank': 'II', 'summonerId': 'rNkpSqsHL0I9bzp1-i2HKowuWq8INvw9tQDUTwND0dcVhE4', 'summonerName': 'Balloner27', 'leaguePoints': 0, 'wins': 25, 'losses': 117, 'veteran': False, 'inactive': False, 'freshBlood': False, 'hotStreak': False, 'region': 'oc1', '_id': ObjectId('5eacb12e2257bb5da2864f31')} <Response [503 Service Unavailable]>
+ERROR summoner: {'leagueId': 'd4915125-107d-4b53-984e-a3b11727d7b6', 'queueType': 'RANKED_TFT', 'tier': 'DIAMOND', 'rank': 'II', 'summonerId': 'WvhR-AxQYjbnjhocTg5Zw1MvVkropx28SWkqjL499UUHP9E', 'summonerName': 'YUKINO013', 'leaguePoints': 65, 'wins': 17, 'losses': 70, 'veteran': False, 'inactive': False, 'freshBlood': True, 'hotStreak': False, 'region': 'oc1', '_id': ObjectId('5eacb12e2257bb5da2864f33')} <Response [503 Service Unavailable]>
+ERROR summoner: {'leagueId': '45acf6f3-f674-45c4-a2d2-4ceb18ff4756', 'queueType': 'RANKED_TFT', 'tier': 'DIAMOND', 'rank': 'II', 'summonerId': 'LLSgpsJQh4qP3c-os0dmhXTyIOmbUC4RaTlutAUPc7aDP2Y', 'summonerName': 'sufferx', 'leaguePoints': 19, 'wins': 19, 'losses': 86, 'veteran': False, 'inactive': False, 'freshBlood': False, 'hotStreak': False, 'region': 'oc1', '_id': ObjectId('5eacb12e2257bb5da2864f34')} <Response [503 Service Unavailable]>
+ERROR summoner: {'summonerId': 'Ru6WAgFaFu7tIN6lB0tJxaqEaDlwo8uqKHSNv-YrZHedIG4', 'summonerName': 'IsMondayTMR', 'leaguePoints': 0, 'rank': 'I', 'wins': 45, 'losses': 279, 'veteran': False, 'inactive': False, 'freshBlood': True, 'hotStreak': False, 'region': 'na1', '_id': ObjectId('5eaca0572257bb5da285bbd7')} <Response [503 Service Unavailable]>
+Found 49 DIAMOND III from jp1
+ERROR summoner: {'summonerId': '2nH3ASm3lVt8bdLxlKeJtkK_wBiX20rKRsbSeuU4csqhO6Wl', 'summonerName': 'Bona TFT', 'leaguePoints': 1, 'rank': 'I', 'wins': 42, 'losses': 152, 'veteran': False, 'inactive': False, 'freshBlood': True, 'hotStreak': False, 'region': 'na1', '_id': ObjectId('5eaca0572257bb5da285bbd9')} <Response [503 Service Unavailable]>
+ERROR summoner: {'summonerId': '9k2AoWWqODzow1yN7qT8Vz-5H5okJElRq78kGdv4hJboAJs', 'summonerName': 'Ov3rmaN', 'leaguePoints': 21, 'rank': 'I', 'wins': 39, 'losses': 204, 'veteran': False, 'inactive': False, 'freshBlood': False, 'hotStreak': False, 'region': 'na1', '_id': ObjectId('5eaca0572257bb5da285bbda')} <Response [503 Service Unavailable]>
+ERROR summoner: {'summonerId': 'ndqV_vg9kJ8ok7HskaiNgGhRExDF3A6Pb9lLKE_XYR8cgIy3', 'summonerName': 'DaThunderChild', 'leaguePoints': 30, 'rank': 'I', 'wins': 23, 'losses': 70, 'veteran': False, 'inactive': False, 'freshBlood': True, 'hotStreak': False, 'region': 'na1', '_id': ObjectId('5eaca0572257bb5da285bbdb')} <Response [503 Service Unavailable]>
+ERROR summoner: {'summonerId': '1sAjT5k8oKV9BQ7Dr9RCh-g9p74CnvKmeQV4G4QRZBep3xc', 'summonerName': 'Happy  Skrrr', 'leaguePoints': 0, 'rank': 'I', 'wins': 21, 'losses': 97, 'veteran': False, 'inactive': False, 'freshBlood': False, 'hotStreak': False, 'region': 'na1', '_id': ObjectId('5eaca0572257bb5da285bbdc')} <Response [503 Service Unavailable]>
+Found 205 DIAMOND I from euw1
+ERROR summoner: {'summonerId': '9T0bk7pHwrwvsnHXyPIBMm7bUUv27AVKXX-hQRTDno6EA_0', 'summonerName': 'An Quá Non', 'leaguePoints': 221, 'rank': 'I', 'wins': 59, 'losses': 209, 'veteran': False, 'inactive': False, 'freshBlood': True, 'hotStreak': False, 'region': 'na1', '_id': ObjectId('5eaca0572257bb5da285bbdd')} <Response [503 Service Unavailable]>
+ERROR summoner: {'summonerId': 'xc9sjp8tIeDlQ8BIBfweAsbo0H5pFozPtSEq9brniZrjwyds', 'summonerName': 'HungryXHippos', 'leaguePoints': 0, 'rank': 'I', 'wins': 27, 'losses': 92, 'veteran': False, 'inactive': False, 'freshBlood': True, 'hotStreak': False, 'region': 'na1', '_id': ObjectId('5eaca0572257bb5da285bbde')} <Response [503 Service Unavailable]>
+Found 205 DIAMOND III from tr1
+ERROR summoner: {'summonerId': 'IRBNmFT_sMJqIBiwDvHJDENyutlYW-yXAc4HS3900XNzMb0', 'summonerName': 'K1M JONG UNNNNNN', 'leaguePoints': 180, 'rank': 'I', 'wins': 22, 'losses': 110, 'veteran': False, 'inactive': False, 'freshBlood': False, 'hotStreak': False, 'region': 'na1', '_id': ObjectId('5eaca0572257bb5da285bbdf')} <Response [503 Service Unavailable]>
+ERROR summoner: {'summonerId': 'ULKpJwH5-8JPo0Xy_Q26F_3wMUzNJgvDZdRvMemIlSZDqQk', 'summonerName': 'entom', 'leaguePoints': 0, 'rank': 'I', 'wins': 33, 'losses': 173, 'veteran': False, 'inactive': False, 'freshBlood': False, 'hotStreak': False, 'region': 'na1', '_id': ObjectId('5eaca0572257bb5da285bbe0')} <Response [503 Service Unavailable]>
+ERROR summoner: {'summonerId': 'VfjpS9PJFVAVAQXILo_XDcKRyCvw3yOMg9ucf4vIvZ49pCs', 'summonerName': 'Dazzi', 'leaguePoints': 0, 'rank': 'I', 'wins': 36, 'losses': 192, 'veteran': False, 'inactive': False, 'freshBlood': False, 'hotStreak': False, 'region': 'na1', '_id': ObjectId('5eaca0572257bb5da285bbe1')} <Response [503 Service Unavailable]>
+ERROR summoner: {'summonerId': 'P-1ZjBCEy-00tnbXWjV34fBq23UQg-KRQ38gGDmZB2gnR_o', 'summonerName': 'Surkal', 'leaguePoints': 14, 'rank': 'I', 'wins': 57, 'losses': 311, 'veteran': False, 'inactive': False, 'freshBlood': True, 'hotStreak': False, 'region': 'na1', '_id': ObjectId('5eaca0572257bb5da285bbe2')} <Response [503 Service Unavailable]>
+ERROR summoner: {'summonerId': 'C1HFZ1tuSKTAXK9aZ-kSWRV7vXxGto7ltvIlCMC7V-r6etc', 'summonerName': 'Laø', 'leaguePoints': 0, 'rank': 'I', 'wins': 35, 'losses': 217, 'veteran': False, 'inactive': False, 'freshBlood': False, 'hotStreak': False, 'region': 'na1', '_id': ObjectId('5eaca0572257bb5da285bbe3')} <Response [503 Service Unavailable]>
+ERROR summoner: {'summonerId': 'bvmL9TnCyhQ10y5U5j61OKnsCoZusIvWZyqDCUE4YmIU_Zk', 'summonerName': 'Chuuper', 'leaguePoints': 8, 'rank': 'I', 'wins': 44, 'losses': 295, 'veteran': False, 'inactive': False, 'freshBlood': True, 'hotStreak': False, 'region': 'na1', '_id': ObjectId('5eaca0572257bb5da285bbe5')} <Response [503 Service Unavailable]>
+Found 205 PLATINUM II from ru
+Found 205 DIAMOND IV from jp1
+Found 205 DIAMOND II from oc1
+Found 205 DIAMOND II from eun1
+Found 200 grandmasters from na1
+Found 205 DIAMOND I from euw1
+Found 205 DIAMOND III from tr1
+Found 205 PLATINUM II from ru
+Found 205 DIAMOND II from eun1
+Found 205 DIAMOND II from oc1
+Found 205 DIAMOND I from euw1
+Found 205 DIAMOND III from tr1
+Found 205 DIAMOND IV from jp1
+Found 205 DIAMOND I from na1
+Found 205 PLATINUM II from ru
+Found 205 DIAMOND II from eun1
+ERROR summoner: {'leagueId': '8b76d528-03b2-43d6-afe0-2365cbaa49e8', 'queueType': 'RANKED_TFT', 'tier': 'DIAMOND', 'rank': 'I', 'summonerId': 'Cj8XNMoG5X5hM6wAaqZYD0zMoE8y0dC16SV1zF1KmiYQBySS', 'summonerName': 'fandedopa', 'leaguePoints': 0, 'wins': 18, 'losses': 135, 'veteran': False, 'inactive': False, 'freshBlood': False, 'hotStreak': False, 'region': 'na1', '_id': ObjectId('5eacb4702257bb5da2866d54')} <Response [503 Service Unavailable]>
+ERROR summoner: {'leagueId': '914cc087-bc04-4364-b95a-dbf356a11388', 'queueType': 'RANKED_TFT', 'tier': 'DIAMOND', 'rank': 'I', 'summonerId': 'YG3N0OdWg3lpobV5BT9n8OJ-edlEnyoMZrg_QsDqIuzcejDw', 'summonerName': 'kaer never die', 'leaguePoints': 5, 'wins': 18, 'losses': 140, 'veteran': False, 'inactive': False, 'freshBlood': False, 'hotStreak': False, 'region': 'na1', '_id': ObjectId('5eacb4702257bb5da2866d55')} <Response [503 Service Unavailable]>
+ERROR summoner: {'leagueId': 'a423d513-f75d-49f1-8720-af40558df957', 'queueType': 'RANKED_TFT', 'tier': 'DIAMOND', 'rank': 'I', 'summonerId': 'WI-kYMscRG8XQcP2EHfQJiVMLLnfdSK4F0jtqGEJNmwXgZDR', 'summonerName': 'derajwal', 'leaguePoints': 90, 'wins': 23, 'losses': 90, 'veteran': False, 'inactive': False, 'freshBlood': False, 'hotStreak': False, 'region': 'na1', '_id': ObjectId('5eacb4702257bb5da2866d56')} <Response [503 Service Unavailable]>
+ERROR summoner: {'leagueId': 'd1d45cc6-a020-4a65-a0e8-39067619ecc3', 'queueType': 'RANKED_TFT', 'tier': 'DIAMOND', 'rank': 'I', 'summonerId': 'yR6fX9UxulVYlUHR-fTodZ3rpxRfzOwZAJoKek01FqO7acx8', 'summonerName': 'STRONGAMER', 'leaguePoints': 35, 'wins': 36, 'losses': 177, 'veteran': False, 'inactive': False, 'freshBlood': False, 'hotStreak': False, 'region': 'na1', '_id': ObjectId('5eacb4702257bb5da2866d57')} <Response [503 Service Unavailable]>
+ERROR summoner: {'leagueId': 'f69b6884-2a8d-4e28-904b-f9fbeb4621c9', 'queueType': 'RANKED_TFT', 'tier': 'DIAMOND', 'rank': 'I', 'summonerId': '20v8nSCByyxI1V5ZmucwCf082AGWknRSB4_UQrAPBTm0rizb', 'summonerName': 'shoogsnight', 'leaguePoints': 15, 'wins': 24, 'losses': 111, 'veteran': False, 'inactive': False, 'freshBlood': False, 'hotStreak': False, 'region': 'na1', '_id': ObjectId('5eacb4702257bb5da2866d58')} <Response [503 Service Unavailable]>
+ERROR summoner: {'leagueId': 'd73c7995-1662-4ca4-be77-bb2e2e409e47', 'queueType': 'RANKED_TFT', 'tier': 'DIAMOND', 'rank': 'I', 'summonerId': 'gmu_HqKfge6BH9cXeRqSwh0WafVPoF8ju9ILZZC_EBt5nanJ', 'summonerName': 'TTV touchme4', 'leaguePoints': 93, 'wins': 32, 'losses': 137, 'veteran': False, 'inactive': False, 'freshBlood': True, 'hotStreak': False, 'region': 'na1', '_id': ObjectId('5eacb4702257bb5da2866d59')} <Response [503 Service Unavailable]>
+ERROR summoner: {'leagueId': 'a3032b07-3bdc-49c5-99f0-131782b7ec19', 'queueType': 'RANKED_TFT', 'tier': 'DIAMOND', 'rank': 'II', 'summonerId': 'Vi0DJEr8j_f9WyGBwGXEV4AdX5Iq7V58BpOiO4bzCPGFTUc', 'summonerName': 'Evildoerkekai', 'leaguePoints': 12, 'wins': 25, 'losses': 112, 'veteran': False, 'inactive': False, 'freshBlood': False, 'hotStreak': False, 'region': 'oc1', '_id': ObjectId('5eacb4182257bb5da28668c2')} <Response [503 Service Unavailable]>
+Found 205 DIAMOND I from euw1
+Found 123 DIAMOND III from tr1
+Found 205 DIAMOND II from oc1
+Found 205 PLATINUM II from ru
+Found 205 DIAMOND I from na1
+Found 205 DIAMOND IV from tr1
+Found 144 DIAMOND II from eun1
+Found 205 DIAMOND IV from jp1
+Found 205 DIAMOND I from euw1
+Found 205 PLATINUM II from ru
+Found 205 DIAMOND III from eun1
+Found 205 DIAMOND II from oc1
+Found 205 DIAMOND IV from tr1
+Found 205 DIAMOND I from na1
+Found 205 DIAMOND I from euw1
+Found 61 PLATINUM II from ru
+Found 205 DIAMOND III from eun1
+Found 205 DIAMOND IV from jp1
+Found 205 PLATINUM III from ru
+Found 205 DIAMOND IV from tr1
+Found 205 DIAMOND II from oc1
+Found 205 DIAMOND I from euw1
+Found 205 DIAMOND I from na1
+Found 205 DIAMOND III from eun1
+Found 205 PLATINUM III from ru
+Found 205 DIAMOND IV from tr1
+Found 205 DIAMOND I from euw1
+Found 205 DIAMOND II from oc1
+Found 205 DIAMOND IV from jp1
+Found 205 DIAMOND III from eun1
+Found 205 DIAMOND I from na1
+Found 205 PLATINUM III from ru
+Found 205 DIAMOND IV from tr1
+Found 205 DIAMOND II from euw1
+Found 205 DIAMOND III from eun1
+Found 205 DIAMOND II from oc1
+Found 205 PLATINUM III from ru
+Found 205 DIAMOND IV from tr1
+Found 205 DIAMOND I from na1
+Found 205 DIAMOND IV from jp1
+Found 205 DIAMOND II from euw1
+Found 205 DIAMOND III from eun1
+Found 205 PLATINUM III from ru
+Found 205 DIAMOND IV from tr1
+Found 205 DIAMOND II from oc1
+Found 205 DIAMOND II from euw1
+Found 205 DIAMOND I from na1
+Found 205 DIAMOND III from eun1
+Found 205 DIAMOND IV from jp1
+Found 205 PLATINUM III from ru
+Found 205 DIAMOND IV from tr1
+Found 205 DIAMOND II from euw1
+Found 205 DIAMOND III from oc1
+Found 205 DIAMOND III from eun1
+Found 205 DIAMOND I from na1
+Found 205 PLATINUM III from ru
+Found 205 DIAMOND IV from tr1
+Found 205 DIAMOND II from euw1
+Found 205 DIAMOND IV from jp1
+Found 205 DIAMOND III from eun1
+Found 205 DIAMOND III from oc1
+Found 205 PLATINUM III from ru
+Found 205 PLATINUM I from tr1
+Found 113 DIAMOND I from na1
+Found 205 DIAMOND II from euw1
+Found 205 DIAMOND IV from eun1
+Found 205 DIAMOND II from na1
+Found 205 PLATINUM III from ru
+Found 205 PLATINUM I from tr1
+Found 205 DIAMOND III from oc1
+Found 205 DIAMOND IV from jp1
+Found 205 DIAMOND II from euw1
+Found 205 DIAMOND IV from eun1
+Found 205 PLATINUM I from tr1
+Found 205 DIAMOND II from na1
+Found 205 DIAMOND II from euw1
+Found 205 DIAMOND III from oc1
+Found 205 DIAMOND IV from eun1
+Found 205 PLATINUM I from jp1
+Found 205 PLATINUM I from tr1
+Found 205 DIAMOND II from euw1
+Found 205 DIAMOND II from na1
+Found 205 DIAMOND IV from eun1
+Found 205 DIAMOND III from oc1
+Found 205 PLATINUM I from tr1
+Found 205 DIAMOND III from euw1
+Found 205 DIAMOND IV from eun1
+Found 205 PLATINUM I from jp1
+Found 205 PLATINUM I from tr1
+Found 205 DIAMOND II from na1
+Found 205 DIAMOND III from euw1
+Found 205 DIAMOND III from oc1
+Found 205 DIAMOND IV from eun1
+Found 205 PLATINUM I from tr1
+Found 205 DIAMOND III from euw1
+Found 205 PLATINUM I from jp1
+Found 205 DIAMOND II from na1
+Found 205 DIAMOND IV from eun1
+Found 205 DIAMOND III from oc1
+Found 205 PLATINUM I from tr1
+Found 205 DIAMOND III from euw1
+Found 205 DIAMOND IV from eun1
+Found 205 PLATINUM I from tr1
+Found 205 DIAMOND II from na1
+Found 205 DIAMOND III from oc1
+Found 500 grandmasters from kr
+Found 205 PLATINUM I from jp1
+Found 205 DIAMOND III from euw1
+Found 205 DIAMOND IV from eun1
+Found 205 PLATINUM II from tr1
+Found 205 DIAMOND III from euw1
+Found 205 DIAMOND II from na1
+Found 205 DIAMOND III from oc1
+Found 205 PLATINUM I from eun1
+Found 205 PLATINUM II from tr1
+Found 205 PLATINUM I from jp1
+Found 205 DIAMOND III from euw1
+Found 205 PLATINUM I from eun1
+Found 205 DIAMOND II from na1
+Found 205 PLATINUM II from tr1
+Found 205 DIAMOND IV from oc1
+Found 205 DIAMOND III from euw1
+Found 205 PLATINUM I from eun1
+Found 205 PLATINUM I from jp1
+Found 205 PLATINUM II from tr1
+Found 205 DIAMOND III from euw1
+Found 205 DIAMOND II from na1
+Found 205 DIAMOND IV from oc1
+Found 205 PLATINUM I from eun1
+Found 205 DIAMOND I from kr
+Found 205 PLATINUM II from tr1
+Found 205 DIAMOND IV from euw1
+Found 205 PLATINUM I from eun1
+Found 205 PLATINUM I from jp1
+Found 205 DIAMOND III from na1
+Found 205 PLATINUM II from tr1
+Found 205 DIAMOND IV from oc1
+Found 205 DIAMOND IV from euw1
+Found 205 DIAMOND I from kr
+Found 205 PLATINUM I from eun1
+Found 205 PLATINUM II from tr1
+Found 205 DIAMOND III from na1
+Found 205 DIAMOND IV from euw1
+Found 205 DIAMOND IV from oc1
+Found 78 PLATINUM I from jp1
+Found 205 PLATINUM I from eun1
+Found 205 PLATINUM II from tr1
+Found 205 PLATINUM II from jp1
+Found 205 DIAMOND I from kr
+Found 205 DIAMOND IV from euw1
+Found 205 PLATINUM I from eun1
+Found 205 DIAMOND III from na1
+Found 205 DIAMOND IV from oc1
+Found 205 PLATINUM II from tr1
+Found 205 DIAMOND IV from euw1
+Found 205 PLATINUM I from eun1
+Found 205 PLATINUM III from tr1
+Found 205 PLATINUM II from jp1
+Found 205 DIAMOND I from kr
+Found 205 DIAMOND III from na1
+Found 205 DIAMOND IV from oc1
+Found 205 DIAMOND IV from euw1
+Found 205 PLATINUM II from eun1
+Found 205 PLATINUM III from tr1
+Found 205 DIAMOND IV from euw1
+Found 205 DIAMOND III from na1
+Found 205 PLATINUM II from eun1
+Found 205 DIAMOND IV from oc1
+Found 205 PLATINUM II from jp1
+Found 205 DIAMOND I from kr
+Found 205 PLATINUM III from tr1
+Found 205 DIAMOND IV from euw1
+Found 205 PLATINUM II from eun1
+Found 205 PLATINUM III from tr1
+Found 205 DIAMOND III from na1
+Found 205 DIAMOND IV from oc1
+Found 205 DIAMOND IV from euw1
+Found 205 PLATINUM II from jp1
+Found 205 DIAMOND I from kr
+Found 205 PLATINUM II from eun1
+Found 205 PLATINUM III from tr1
+Found 205 PLATINUM I from euw1
+Found 205 DIAMOND III from na1
+Found 205 DIAMOND IV from oc1
+Found 205 PLATINUM II from eun1
+Found 205 PLATINUM III from tr1
+Found 205 PLATINUM II from jp1
+Found 205 PLATINUM I from euw1
+Found 205 DIAMOND I from kr
+Found 205 PLATINUM II from eun1
+Found 205 DIAMOND III from na1
+Found 205 PLATINUM III from tr1
+Found 205 PLATINUM I from oc1
+Found 205 PLATINUM I from euw1
+Found 205 PLATINUM II from eun1
+Found 205 PLATINUM III from tr1
+Found 205 PLATINUM II from jp1
+Found 205 DIAMOND III from na1
+Found 205 DIAMOND I from kr
+Found 205 PLATINUM I from euw1
+Found 205 PLATINUM I from oc1
+Found 205 PLATINUM II from eun1
+Found 205 PLATINUM III from tr1
+Found 205 PLATINUM I from euw1
+Found 205 DIAMOND IV from na1
+Found 205 PLATINUM II from eun1
+Found 205 PLATINUM II from jp1
+Found 205 PLATINUM I from oc1
+Found 205 DIAMOND I from kr
+Found 205 PLATINUM I from euw1
+Found 205 PLATINUM III from eun1
+Found 205 DIAMOND IV from na1
+Found 205 PLATINUM I from oc1
+Found 205 PLATINUM I from euw1
+Found 205 PLATINUM II from jp1
+Found 205 PLATINUM III from eun1
+Found 205 DIAMOND II from kr
+Found 205 PLATINUM I from euw1
+Found 205 DIAMOND IV from na1
+Found 205 PLATINUM III from eun1
+Found 205 PLATINUM I from oc1
+Found 205 PLATINUM I from euw1
+Found 205 PLATINUM II from jp1
+Found 205 PLATINUM III from eun1
+Found 205 DIAMOND II from kr
+Found 205 DIAMOND IV from na1
+Found 205 PLATINUM I from oc1
+Found 205 PLATINUM II from euw1
+Found 205 PLATINUM III from eun1
+Found 205 PLATINUM III from jp1
+Found 205 PLATINUM II from euw1
+Found 205 DIAMOND IV from na1
+Found 205 DIAMOND II from kr
+Found 205 PLATINUM I from oc1
+Found 205 PLATINUM III from eun1
+Found 205 PLATINUM II from euw1
+Found 205 PLATINUM III from eun1
+Found 205 DIAMOND IV from na1
+Found 205 PLATINUM III from jp1
+Found 205 PLATINUM I from oc1
+Found 205 DIAMOND II from kr
+Found 205 PLATINUM II from euw1
+Found 205 PLATINUM III from eun1
+Found 205 PLATINUM II from euw1
+Found 205 DIAMOND IV from na1
+Found 205 PLATINUM I from oc1
+Found 205 PLATINUM III from eun1
+Found 205 PLATINUM III from jp1
+Found 205 DIAMOND II from kr
+Found 205 PLATINUM II from euw1
+Found 205 DIAMOND IV from na1
+Found 205 PLATINUM II from oc1
+Found 205 PLATINUM II from euw1
+Found 205 PLATINUM III from jp1
+Found 205 DIAMOND II from kr
+Found 205 DIAMOND IV from na1
+Found 205 PLATINUM II from oc1
+Found 205 PLATINUM II from euw1
+Found 205 PLATINUM III from jp1
+Found 205 PLATINUM II from euw1
+Found 205 PLATINUM I from na1
+Found 205 PLATINUM II from oc1
+Found 205 PLATINUM III from euw1
+Found 205 PLATINUM III from jp1
+Found 205 PLATINUM I from na1
+Found 205 PLATINUM II from oc1
+Found 205 PLATINUM III from euw1
+Found 205 PLATINUM III from euw1
+Found 205 PLATINUM I from na1
+Found 205 PLATINUM II from oc1
+Found 205 PLATINUM III from jp1
+Found 205 PLATINUM III from euw1
+Found 205 PLATINUM I from na1
+Found 205 PLATINUM II from oc1
+Found 205 PLATINUM III from euw1
+Found 205 PLATINUM III from jp1
+Found 205 PLATINUM III from euw1
+Found 205 PLATINUM I from na1
+Found 205 PLATINUM II from oc1
+Found 205 PLATINUM III from euw1
+Found 205 PLATINUM III from jp1
+Found 205 PLATINUM I from na1
+Found 205 PLATINUM II from oc1
+Found 205 PLATINUM III from euw1
+Found 205 PLATINUM III from euw1
+Found 205 PLATINUM I from na1
+Found 205 PLATINUM II from oc1
+Found 205 PLATINUM I from na1
+Found 205 PLATINUM III from oc1
+Found 205 PLATINUM I from na1
+Found 205 PLATINUM III from oc1
+Found 205 PLATINUM III from oc1
+Found 205 PLATINUM II from na1
+Found 205 PLATINUM III from oc1
+Found 205 PLATINUM II from na1
+Found 205 PLATINUM III from oc1
+Found 205 PLATINUM II from na1
+Found 205 PLATINUM III from oc1
+Found 205 PLATINUM II from na1
+Found 205 PLATINUM III from oc1
+Found 205 PLATINUM II from na1
+Found 205 PLATINUM III from oc1
+Found 205 PLATINUM II from na1
+Found 205 PLATINUM III from oc1
+Found 205 PLATINUM II from na1
+Found 205 PLATINUM II from na1
+Found 205 PLATINUM II from na1
+Found 205 PLATINUM III from na1
+Found 205 PLATINUM III from na1
+Found 205 PLATINUM III from na1
+Found 205 PLATINUM III from na1
+Found 205 PLATINUM III from na1
+Found 205 PLATINUM III from na1
+Found 205 PLATINUM III from na1
+Found 205 PLATINUM III from na1
+Found 205 PLATINUM III from na1
